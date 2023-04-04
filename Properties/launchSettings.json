@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUiBab (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUiBab (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
